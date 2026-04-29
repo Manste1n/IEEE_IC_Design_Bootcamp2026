@@ -13,7 +13,7 @@ Deployment of AI-assisted IC Design for the IEEE IC Design Philippine Bootcamp 2
 
 ## How to test
 
-Explain how to use your project
+Exploration of IC Designs that has been AI-assisted with other systems
 
 ## External hardware
 
