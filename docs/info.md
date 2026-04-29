@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Deployment of AI-assisted IC Design for the IEEE IC Design Philippine Bootcamp 2026
 
 ## How to test
 
